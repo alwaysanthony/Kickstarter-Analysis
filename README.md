@@ -8,8 +8,7 @@ Help Louise analyze crowdfunding data to increase the chances of making her camp
 
 ### Analysis of Outcomes Based on Launch Date
 
-/Resources/theater_outcomes_vs_launch.png
-
+![Chart](Resources/theater_outcomes_vs_launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
