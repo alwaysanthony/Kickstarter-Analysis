@@ -8,7 +8,7 @@ Help Louise analyze crowdfunding data to increase the chances of making her camp
 
 ### Analysis of Outcomes Based on Launch Date
 
-Based on the chart, we can see that the number of succesful productions are highest in May and June. This information might seem very helpful but can be misleading without other information.  If the number of failures is just as high during May and June we could not conclude that this is the best time to launch a campaign. However, We can see that the average number of failures is independent of the time of the year. Therefore, we can clude that the best time for Louise to start a campaign would be during the months of May or June
+Based on the chart, we can see that the number of succesful productions are highest in May and June. This information might seem very helpful but can be misleading without other information.  If the number of failures is just as high during May and June we could not conclude that this is the best time to launch a campaign. However, We can see that the average number of failures is independent of the time of the year. Therefore, we can conclude that the best time for Louise to start a campaign would be during the months of May or June
 
 ![Chart](Resources/theater_outcomes_vs_launch.png)
 ### Analysis of Outcomes Based on Goals
